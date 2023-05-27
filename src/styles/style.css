@@ -10,7 +10,6 @@
 }
 
 .brianintro {
-
   display: flex;
   justify-content: center;
   align-items: center;
@@ -23,7 +22,6 @@
 
 .nav-link,
 .navred {
-
   color: #7079d3 !important;
   background-image: url("../components/pages/sketch5.png");
   display: inline-block;
@@ -31,6 +29,7 @@
 
 body {
   color: rgb(220, 290, 227) !important;
+  background-image: url("../components/pages/spiral.png");
 }
 p {
   margin-left: 2em;
