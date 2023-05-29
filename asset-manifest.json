@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.a71b6598.css",
-    "main.js": "/static/js/main.d6de8a7d.js",
-    "static/media/hot10.png": "/static/media/hot10.d141603cb83a5f108f7b.png",
-    "static/media/portfolio1.png": "/static/media/portfolio1.b109b0982f59d72830a1.png",
-    "static/media/quizwars.png": "/static/media/quizwars.9f3678eb295ac46375fc.png",
-    "static/media/weather.png": "/static/media/weather.90db158b422b7c0a027e.png",
-    "static/media/spiral.png": "/static/media/spiral.709e3906abcb4e04aaa0.png",
-    "static/media/pwg.png": "/static/media/pwg.41ad572588cd763728c1.png",
-    "static/media/phudi.png": "/static/media/phudi.b0c465c0709287206804.png",
-    "static/media/techblog.png": "/static/media/techblog.8449d21f2e6ea0d49480.png",
-    "static/media/brian.jpg": "/static/media/brian.6a9536b69922dba1f1fd.jpg",
-    "static/media/pwa.png": "/static/media/pwa.586fee0aaa6c61b8a63d.png",
-    "index.html": "/index.html",
-    "main.a71b6598.css.map": "/static/css/main.a71b6598.css.map",
-    "main.d6de8a7d.js.map": "/static/js/main.d6de8a7d.js.map"
+    "main.css": "/BrianEbelReact/static/css/main.a2090ebb.css",
+    "main.js": "/BrianEbelReact/static/js/main.52c1ef7d.js",
+    "static/media/hot10.png": "/BrianEbelReact/static/media/hot10.d141603cb83a5f108f7b.png",
+    "static/media/portfolio1.png": "/BrianEbelReact/static/media/portfolio1.b109b0982f59d72830a1.png",
+    "static/media/quizwars.png": "/BrianEbelReact/static/media/quizwars.9f3678eb295ac46375fc.png",
+    "static/media/weather.png": "/BrianEbelReact/static/media/weather.90db158b422b7c0a027e.png",
+    "static/media/spiral.png": "/BrianEbelReact/static/media/spiral.709e3906abcb4e04aaa0.png",
+    "static/media/pwg.png": "/BrianEbelReact/static/media/pwg.41ad572588cd763728c1.png",
+    "static/media/phudi.png": "/BrianEbelReact/static/media/phudi.b0c465c0709287206804.png",
+    "static/media/techblog.png": "/BrianEbelReact/static/media/techblog.8449d21f2e6ea0d49480.png",
+    "static/media/brian.jpg": "/BrianEbelReact/static/media/brian.6a9536b69922dba1f1fd.jpg",
+    "static/media/pwa.png": "/BrianEbelReact/static/media/pwa.586fee0aaa6c61b8a63d.png",
+    "index.html": "/BrianEbelReact/index.html",
+    "main.a2090ebb.css.map": "/BrianEbelReact/static/css/main.a2090ebb.css.map",
+    "main.52c1ef7d.js.map": "/BrianEbelReact/static/js/main.52c1ef7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a71b6598.css",
-    "static/js/main.d6de8a7d.js"
+    "static/css/main.a2090ebb.css",
+    "static/js/main.52c1ef7d.js"
   ]
 }
