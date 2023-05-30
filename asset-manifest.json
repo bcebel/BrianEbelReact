@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BrianEbelReact/static/css/main.aaebf1a2.css",
-    "main.js": "/BrianEbelReact/static/js/main.8f369516.js",
+    "main.css": "/BrianEbelReact/static/css/main.999c350f.css",
+    "main.js": "/BrianEbelReact/static/js/main.30c0e8e4.js",
     "static/media/hot10.png": "/BrianEbelReact/static/media/hot10.d141603cb83a5f108f7b.png",
     "static/media/portfolio1.png": "/BrianEbelReact/static/media/portfolio1.b109b0982f59d72830a1.png",
     "static/media/quizwars.png": "/BrianEbelReact/static/media/quizwars.9f3678eb295ac46375fc.png",
@@ -13,11 +13,11 @@
     "static/media/brian.jpg": "/BrianEbelReact/static/media/brian.6a9536b69922dba1f1fd.jpg",
     "static/media/pwa.png": "/BrianEbelReact/static/media/pwa.586fee0aaa6c61b8a63d.png",
     "index.html": "/BrianEbelReact/index.html",
-    "main.aaebf1a2.css.map": "/BrianEbelReact/static/css/main.aaebf1a2.css.map",
-    "main.8f369516.js.map": "/BrianEbelReact/static/js/main.8f369516.js.map"
+    "main.999c350f.css.map": "/BrianEbelReact/static/css/main.999c350f.css.map",
+    "main.30c0e8e4.js.map": "/BrianEbelReact/static/js/main.30c0e8e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.aaebf1a2.css",
-    "static/js/main.8f369516.js"
+    "static/css/main.999c350f.css",
+    "static/js/main.30c0e8e4.js"
   ]
 }
